@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!Badr Rich>
+  <title>Currículum de Badr Rich</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <aside>
+
+      <img src="foto.jpg" alt="Foto personal">
+
+      <h1>Badr Rich</h1>
+
+      <h2>Estudiante de Desarrollo Applicacions Web</h2>
+
+      <h3>Contacto</h3>
+      <ul>
+        <li>Email: badr.rich435@gmail.com</li>
+
+        <li>Ciudad: Valencia, España</li>
+      </ul>
+
+      <h3>Habilidades</h3>
+      <ul>
+        <Jugador de futbol>
+        <li>HTML y CSS</li>
+        <li>JavaScript básico</li>
+        <li>Trabajo en equipo</li>
+      </ul>
+    </aside>
+
+    <main>
+      <h2>Sobre mí</h2>
+      <p>Soy un estudiante motivado que está aprendiendo desarrollo applicacions web y tecnologías digitales. Me gusta crear páginas web limpias y funcionales.</p>
+
+      <h2>Educación</h2
+      <p>Ciclo Formativo de Desarrollo de Aplicaciones Web - 2025</p>
+
+      <h2>Idiomas</h2>
+      <ul>
+        <li>Español</li>
+        <li>Árabe</li>
+        <li>Inglés (básico)</li>
+      </ul>
+    </main>
+  </div>
+</body>
+</html>
+aside {
+  width: 30%;
+  background-color: #004466; /* 
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+body {
+  background-color: #f2f2f2; /* 
+  font-family: Arial, sans-serif; 
+}
+<img src="foto.jpg" alt="Foto personal" width="120">
+</aside>
